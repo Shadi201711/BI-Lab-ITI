@@ -6,9 +6,9 @@ This repository includes projects and lab exercises for SQL Server Integration S
 
 ### Repository Structure
 
-- `SSIS/`: SSIS projects.
-- `SSAS/`: SSAS projects.
-- `SSRS/`: SSRS projects.
+- `SSIS/`: SSIS Folder.
+- `SSAS/`: SSAS Folder.
+- `SSRS/`: SSRS Folder.
 
 ### Getting Started
 
